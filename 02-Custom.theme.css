@@ -4,7 +4,7 @@
 @import url(https://raw.githubusercontent.com/duttyfly1/02-Theme-by-Ruben-revision/master/code.css);
 :root {
 	/* background URL */ /* default url hhttps://images.alphacoders.com/898/898775.jpg */
-	--background-image: url(https://raw.githubusercontent.com/duttyfly1/02-Theme-by-Ruben-revision/master/898775.jpg) center/cover no-repeat;
+	--background-image: url(https://raw.githubusercontent.com/duttyfly1/02-Theme-by-Ruben-revision/master/img/898775.jpg) center/cover no-repeat;
 	/* Guild and Top bar transparency */
 	--transparency-1: linear-gradient(to left, rgba(0,0,0,0.85), rgba(0,0,0,0.75));
 	/* transparency for channels and private channels */
