@@ -1,5 +1,3 @@
-/* transparency made to work with gradients */
-/* Background Image */
 .da-appMount {
 	background: var(--background-image);
 }
